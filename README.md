@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a 3rd years undergrad college student trying out web development.
+I'm a 4th years undergrad college student 
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [job.ndchinh2003@gmail.com](mailto:job.ndchinh2003@gmail.com)
