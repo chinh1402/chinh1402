@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a 4th years undergrad college student, fighting for a spot in the tech industry
+I'm a 4th years undergrad college student, and I have won a spot as a ReactJS dev
 
 * 🌍  I'm based in Viet Nam
-* ✉️  You can contact me at [job.ndchinh2003@gmail.com](mailto:job.ndchinh2003@gmail.com)
-* 🧠  I'm learning NodeJS
+* ✉️  You can contact me at [ndchinh2003@gmail.com](mailto:ndchinh2003@gmail.com)
+* 🧠  I'm currently doing random things 
 
 ### Skills
 
